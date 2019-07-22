@@ -7,7 +7,6 @@ static inline unsigned reverse(unsigned x) {
    return x;
 }*/
 
-// https://people.cs.umu.se/isak/snippets/crc-16.c
 int crc16(const void* data, const unsigned polynomial, const int init, const int xorout) {
   const unsigned char* current = (const unsigned char*) data;
   //unsigned crc = ((unsigned)init), byte, c, v, tcrc, i;

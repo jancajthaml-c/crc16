@@ -14,6 +14,4 @@ CRC-32/POSIX
 CRC-32Q
 
 Material:
-  - http://www.hackersdelight.org/hdcodetxt/crc.c.txt
-  - http://reveng.sourceforge.net/crc-catalogue/17plus.htm
-  - https://github.com/htot/crc32c/blob/master/crc32c/crc32c.cc
+  - https://people.cs.umu.se/isak/snippets/crc-16.c
